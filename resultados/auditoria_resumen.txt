@@ -1,0 +1,6 @@
+Imágenes: 3001 | Pacientes: 3001
+Imágenes por clase: {0: 508, 1: 2493}
+Pacientes por clase (diagnóstico único): {0: 508, 1: 2493}
+Pacientes con diagnóstico mixto: 0
+Pacientes con >1 imagen: 0
+Imágenes con alertas: 2189/3001 (ver auditoria_dataset.csv)

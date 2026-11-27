@@ -1,0 +1,11 @@
+dataset/
+__pycache__/
+*.pyc
+*.pt
+*.pth
+*.joblib
+*.zip
+.venv/
+venv/
+.env
+.vscode/

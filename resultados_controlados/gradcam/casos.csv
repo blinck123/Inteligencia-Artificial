@@ -1,0 +1,9 @@
+archivo,imagen,real,probabilidad
+gradcam_0.png,Normal Chest X-rays_others (142).png,0,0.002662018872797489
+gradcam_1.png,Normal Chest X-rays_others (329).png,0,0.001960381167009473
+gradcam_2.png,Normal Chest X-rays_others (171).png,0,0.00035513765760697424
+gradcam_3.png,Normal Chest X-rays_others (10).png,0,0.00040335755329579115
+gradcam_4.png,TB Chest X-rays_TB.725.png,1,0.9994993209838867
+gradcam_5.png,TB Chest X-rays_TB.1168.png,1,0.9926164746284485
+gradcam_6.png,TB Chest X-rays_TB.1055.png,1,0.9999293088912964
+gradcam_7.png,TB Chest X-rays_TB.618.png,1,0.9999620914459229

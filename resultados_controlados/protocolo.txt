@@ -1,0 +1,1 @@
+dHash <= 0; grupos transitivos; IDs de paciente no verificados; semilla 42; particiones aproximadas 70/15/15; control parcial de similitud.
